@@ -9,17 +9,3 @@ It uses:
 - [Groq](https://groq.com/) → Llama3 inference  
 
 ---
-
-## ⚙️ Setup
-
-### 1. Clone & Create Environment
-```bash
-git clone https://github.com/yourusername/rag-groq-hf.git
-cd rag-groq-hf
-
-# Create virtual environment
-python -m venv venv
-venv\Scripts\activate     # On Windows
-# or
-source venv/bin/activate  # On Linux/Mac
-
